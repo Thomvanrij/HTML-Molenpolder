@@ -1,1 +1,0 @@
-var json_meetstation_11 = {"type":"FeatureCollection","name":"meetstation_11","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"2","x":"135653","y":"462540","status":"Meetstat"},"geometry":{"type":"Point","coordinates":[5.104524607301291,52.150698396056328]}}]}

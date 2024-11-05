@@ -1,1 +1,0 @@
-var json_NAP022paal_12 = {"type":"FeatureCollection","name":"NAP022paal_12","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"fid":"1","x":135718.77,"y":462587.55},"geometry":{"type":"Point","coordinates":[5.105480003059876,52.151129183043025]}}]}
